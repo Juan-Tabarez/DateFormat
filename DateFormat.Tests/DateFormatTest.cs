@@ -3,13 +3,14 @@ using DateFormat;
 
 namespace DateFormat.Tests;
 
+//Realizar el dotnet test parado en el archivo pricnipal ("DateFormat")
 public class Tests
 {
-    //Test Parte 1
+    //Tests Parte 1
 
     [Test]
 
-    public void Test1()
+    public void ChangeFormatTest1()
     {
         string expected = "1977-11-10";
         string actual = FormatDate.ChangeFormat("10/11/1977");
@@ -17,17 +18,17 @@ public class Tests
     }
 
     [Test]
-    public void Test2()
+    public void ChangeFormatTest2()
     {
         string expected = "2001-11-30";
         string actual = FormatDate.ChangeFormat("30/11/2001");
         Assert.AreEqual(actual,expected);
     }
 
-    //Test Parte 2
+    //Tests Parte 2
 
     [Test]
-    public void Test3()
+    public void ChangeFormat2Test1()
     {
         string expected = "10-11-1977";
         string actual = FormatDate.ChangeFormat2("10/11/1977");
@@ -35,7 +36,7 @@ public class Tests
     }
 
     [Test]
-    public void Test4()
+    public void ChangeFormat2Test2()
     {
         string expected = "";
         string actual = FormatDate.ChangeFormat2("10/11/97");
@@ -43,7 +44,7 @@ public class Tests
     }
 
     [Test]
-    public void Test5()
+    public void ChangeFormat2Test3()
     {
         string expected = "";
         string actual = FormatDate.ChangeFormat2("");
@@ -51,7 +52,7 @@ public class Tests
     }
 
     [Test]
-    public void Test6()
+    public void TChangeFormat2Test4()
     {
         string expected = "";
         string actual = FormatDate.ChangeFormat2(" ");
@@ -59,7 +60,7 @@ public class Tests
     }
 
     [Test]
-    public void Test7()
+    public void ChangeFormat2Test5()
     {
         string expected = "";
         string actual = FormatDate.ChangeFormat2("1977-11-10");
@@ -67,7 +68,7 @@ public class Tests
     }
 
     [Test]
-    public void Test8()
+    public void ChangeFormat2Test6()
     {
         string expected = "";
         string actual = FormatDate.ChangeFormat2("1977/11/10");
@@ -75,7 +76,7 @@ public class Tests
     }
 
     [Test]
-    public void Test9()
+    public void ChangeFormat2Test7()
     {
         string expected = "";
         string actual = FormatDate.ChangeFormat2("gbfsfbdshagjldfsn");

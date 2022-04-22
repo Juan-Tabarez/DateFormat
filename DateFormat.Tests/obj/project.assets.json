@@ -3871,19 +3871,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Juan\\.nuget\\packages\\": {}
+    "C:\\Users\\jtaba\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan\\Desktop\\Test-Date-Format\\DateFormat.Tests\\DateFormat.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\jtaba\\OneDrive\\Escritorio\\DateFormat\\DateFormat.Tests\\DateFormat.Tests.csproj",
       "projectName": "DateFormat.Tests",
-      "projectPath": "C:\\Users\\Juan\\Desktop\\Test-Date-Format\\DateFormat.Tests\\DateFormat.Tests.csproj",
-      "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan\\Desktop\\Test-Date-Format\\DateFormat.Tests\\obj\\",
+      "projectPath": "C:\\Users\\jtaba\\OneDrive\\Escritorio\\DateFormat\\DateFormat.Tests\\DateFormat.Tests.csproj",
+      "packagesPath": "C:\\Users\\jtaba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jtaba\\OneDrive\\Escritorio\\DateFormat\\DateFormat.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jtaba\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -3895,8 +3895,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Juan\\Desktop\\Test-Date-Format\\DateFormat\\DateFormat.csproj": {
-              "projectPath": "C:\\Users\\Juan\\Desktop\\Test-Date-Format\\DateFormat\\DateFormat.csproj"
+            "C:\\Users\\jtaba\\OneDrive\\Escritorio\\DateFormat\\DateFormat\\DateFormat.csproj": {
+              "projectPath": "C:\\Users\\jtaba\\OneDrive\\Escritorio\\DateFormat\\DateFormat\\DateFormat.csproj"
             }
           }
         }
@@ -3943,7 +3943,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

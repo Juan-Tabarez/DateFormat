@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Juan\\.nuget\\packages\\": {}
+    "C:\\Users\\jtaba\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Juan\\Desktop\\Test-Date-Format\\DateFormat\\DateFormat.csproj",
+      "projectUniqueName": "c:\\Users\\jtaba\\OneDrive\\Escritorio\\DateFormat\\DateFormat\\DateFormat.csproj",
       "projectName": "DateFormat",
-      "projectPath": "C:\\Users\\Juan\\Desktop\\Test-Date-Format\\DateFormat\\DateFormat.csproj",
-      "packagesPath": "C:\\Users\\Juan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Juan\\Desktop\\Test-Date-Format\\DateFormat\\obj\\",
+      "projectPath": "c:\\Users\\jtaba\\OneDrive\\Escritorio\\DateFormat\\DateFormat\\DateFormat.csproj",
+      "packagesPath": "C:\\Users\\jtaba\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\jtaba\\OneDrive\\Escritorio\\DateFormat\\DateFormat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Juan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jtaba\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

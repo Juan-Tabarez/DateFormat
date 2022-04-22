@@ -1,0 +1,15 @@
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\bin\Debug\net6.0\DateFormat.deps.json
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\bin\Debug\net6.0\DateFormat.dll
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\bin\Debug\net6.0\DateFormat.pdb
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\obj\Debug\net6.0\DateFormat.csproj.AssemblyReference.cache
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\obj\Debug\net6.0\DateFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\obj\Debug\net6.0\DateFormat.AssemblyInfoInputs.cache
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\obj\Debug\net6.0\DateFormat.AssemblyInfo.cs
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\obj\Debug\net6.0\DateFormat.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\obj\Debug\net6.0\DateFormat.dll
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\obj\Debug\net6.0\refint\DateFormat.dll
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\obj\Debug\net6.0\DateFormat.pdb
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\obj\Debug\net6.0\ref\DateFormat.dll
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\bin\Debug\net6.0\DateFormat.exe
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\bin\Debug\net6.0\DateFormat.runtimeconfig.json
+C:\Users\Juan\Desktop\Test-Date-Format\DateFormat\obj\Debug\net6.0\DateFormat.genruntimeconfig.cache
